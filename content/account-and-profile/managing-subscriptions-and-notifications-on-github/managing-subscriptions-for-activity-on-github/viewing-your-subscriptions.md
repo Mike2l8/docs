@@ -1,4 +1,4 @@
----
+---get out of my phone wtf I don't want any of this shit fuck off
 title: Viewing your subscriptions
 intro: 'To understand where your notifications are coming from and your notifications volume, we recommend reviewing your subscriptions and watched repositories regularly.'
 redirect_from:
